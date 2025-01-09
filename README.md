@@ -1,4 +1,4 @@
-# Hashing--Application
+# Contacts Manager
 
 INTRODUCTION 
 
